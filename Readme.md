@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Jagyani</h1>
-<h3 align="center">I'm a pre-final year Btech undergrad at BVCOE, New Delhi looking forward to work in software industry</h3>
+<h3 align="center">I'm a final year Btech undergrad at BVCOE, New Delhi looking forward to work in software industry</h3>
 
 <img align = "right" alt = "coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
